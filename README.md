@@ -1,1 +1,1 @@
-# octo-home-server
+# Octo Home Server
